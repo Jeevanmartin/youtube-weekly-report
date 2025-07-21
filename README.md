@@ -21,3 +21,6 @@ This project automates the process of generating weekly reports of YouTube video
 ## 📝 Future Improvements
 - Integrate with YouTube Data API for real-time stats
 - Export reports as PDF
+
+![Yt_Analyser Screenshot](Yt_Analyser.png)
+
